@@ -1,0 +1,16 @@
+<testsuites name="jest tests" tests="6" failures="0" time="0.782">
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2020-10-11T16:11:25" time="0.782" tests="6">
+    <testcase classname=" Initial UI renders correctly" name=" Initial UI renders correctly" time="0.059">
+    </testcase>
+    <testcase classname=" Filtering for not matching phrase shows no emplyees" name=" Filtering for not matching phrase shows no emplyees" time="0.008">
+    </testcase>
+    <testcase classname=" Filtering for not matching phrase that contains at least one name as a proper substring shows no employees" name=" Filtering for not matching phrase that contains at least one name as a proper substring shows no employees" time="0.004">
+    </testcase>
+    <testcase classname=" Filtering for one character query renders correct matches" name=" Filtering for one character query renders correct matches" time="0.005">
+    </testcase>
+    <testcase classname=" Filtering for expected matches with lower and uppercase matched substrings" name=" Filtering for expected matches with lower and uppercase matched substrings" time="0.004">
+    </testcase>
+    <testcase classname=" Filtering with query containing uppercase letters renders correct matches" name=" Filtering with query containing uppercase letters renders correct matches" time="0.003">
+    </testcase>
+  </testsuite>
+</testsuites>

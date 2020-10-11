@@ -25,5 +25,8 @@ const EMPLOYEES = [
   },
 ];
 
-ReactDOM.render(<App employees={EMPLOYEES}/>, document.getElementById('root'));
+ReactDOM.render(
+  <App employees={EMPLOYEES}/>, 
+  document.getElementById('root')
+  );
 registerServiceWorker();
